@@ -1,6 +1,6 @@
 {
   "name": "re-plugins",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "private": false,
   "dependencies": {
     "@craco/craco": "^5.9.0",
@@ -26,6 +26,11 @@
     "test": "craco test",
     "eject": "craco eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaowei1012/re-plugins.git"
+  },
+  "homepage": "https://github.com/gaowei1012/re-plugins",
   "eslintConfig": {
     "extends": [
       "react-app",

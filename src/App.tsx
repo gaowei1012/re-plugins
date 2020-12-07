@@ -1,5 +1,5 @@
 import React from 'react'
-import CForm from './plugins/cForm'
+import CForm from './cForm'
 
 function App() {
     return (

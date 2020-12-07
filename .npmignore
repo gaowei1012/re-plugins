@@ -5,7 +5,7 @@
 .idea
 
 # npm
-node_modules
+/node_modules
 yarn.lock
 package-lock.json
 
@@ -32,11 +32,7 @@ karma.sauce.conf.js
 .github
 
 #dev
-src/App.tsx
-src/index.tsx
-src/setupTests.ts
-src/react-app-env.d.ts
-src/reportWebVitals.ts
+src/*
 craco.config.js
 
 tsconfig.json
