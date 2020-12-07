@@ -1,0 +1,42 @@
+# OSX
+.DS_Store
+
+# IDE
+.idea
+
+# npm
+node_modules
+yarn.lock
+package-lock.json
+
+# jest
+coverage
+
+# dev
+test
+types
+build
+public
+babel.config.js
+prettier.config.js
+.eslintrc.json
+.prettierrc.js
+
+#doc
+CONTRIBUTING.md
+docs
+
+#other
+.travis.yml
+karma.sauce.conf.js
+.github
+
+#dev
+src/App.tsx
+src/index.tsx
+src/setupTests.ts
+src/react-app-env.d.ts
+src/reportWebVitals.ts
+craco.config.js
+
+tsconfig.json
